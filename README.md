@@ -4,6 +4,7 @@ Folder structure:
 
 - `.` - This folder ("BlinkBusShow") is the [show folder](https://manual.xlights.org/xlights/chapters/chapter-two-quick-start-guide/defining-the-show-directory) for xLights
 - `./Sequences` - The sequences folder contains the [xLights sequence](https://manual.xlights.org/xlights/chapters/chapter-five-menus/file/settings/sequences) files.
+  - `./Sequences/BlinkBusSequence.xsq` - This is our one sequence file, so that git can take care of the version management
 
 This should work on Mac and Windows, although I've experienced some incompatibilities with Linux.
 
