@@ -19,5 +19,7 @@ If you want to make any changes, it's recommended to [create a branch](https://d
 
 That way you can develop your changes independently from anyone else.
 
+Then, when you make a good change, [make a commit](https://docs.github.com/en/desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project-in-github-desktop#write-a-commit-message-and-push-your-changes) to save your progress, and [push your changes](https://docs.github.com/en/desktop/making-changes-in-a-branch/pushing-changes-to-github-from-github-desktop).
+
 If you'd rather not use Git, just upload your files to OneDrive, and let Zack know.
 
