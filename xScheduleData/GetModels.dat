@@ -1,1 +1,1 @@
-{"models":[{"name":"Single Line","type":"Single Line","startchannel":"1","channels":"300","stringtype":"BRG Nodes"},{"name":"Single Line-2","type":"Single Line","startchannel":"1","channels":"300","stringtype":"BRG Nodes"}]}
+{"models":[{"name":"Single Line","type":"Single Line","startchannel":"1","channels":"150","stringtype":"RGB Nodes"}]}

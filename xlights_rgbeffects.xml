@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xrgb>
   <models>
-    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" name="Single Line-2" LayoutGroup="Default" parm2="100" StringType="BRG Nodes" Controller="Serial_" WorldPosX="92.0301" WorldPosY="629.7986" WorldPosZ="0.0000" X2="676.493530" Y2="-0.000061" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:1">
-      <ControllerConnection Protocol="LOR Optimised"/>
-    </model>
-    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" name="Single Line" LayoutGroup="Default" parm2="100" StringType="BRG Nodes" Controller="Serial_" WorldPosX="90.3431" WorldPosY="675.3480" WorldPosZ="0.0000" X2="674.806580" Y2="3.374023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:1">
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" name="Single Line" LayoutGroup="Default" Controller="Serial_" StringType="RGB Nodes" parm2="50" parm3="3" WorldPosX="121.8029" WorldPosY="650.9197" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:1">
       <ControllerConnection Port="14" Protocol="LOR Optimised"/>
     </model>
   </models>
