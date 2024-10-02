@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xrgb>
   <models>
-    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm2="50" parm3="3" ShadowModelFor="" name="Single Line-7" Controller="Serial_" WorldPosX="150.0249" WorldPosY="505.4374" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:901">
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm2="50" parm3="3" ShadowModelFor="" name="Single Line-8" Controller="Serial_" WorldPosX="153.5474" WorldPosY="515.9323" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:1051">
+      <ControllerConnection Protocol="LOR Optimised" Port="8"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm2="50" parm3="3" ShadowModelFor="" name="Single Line-7" Controller="Serial_" WorldPosX="154.2149" WorldPosY="530.5773" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:901">
       <ControllerConnection Protocol="LOR Optimised" Port="7"/>
     </model>
-    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm2="50" parm3="3" ShadowModelFor="" name="Single Line-6" Controller="Serial_" WorldPosX="154.1199" WorldPosY="530.5576" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:751">
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm2="50" parm3="3" ShadowModelFor="" name="Single Line-6" Controller="Serial_" WorldPosX="152.0249" WorldPosY="546.2698" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:751">
       <ControllerConnection Protocol="LOR Optimised" Port="6"/>
     </model>
     <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm2="50" parm3="3" ShadowModelFor="" name="Single Line-5" Controller="Serial_" WorldPosX="150.8349" WorldPosY="565.1046" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:601">
@@ -30,7 +33,7 @@
   <views/>
   <palettes/>
   <modelGroups>
-    <modelGroup selected="0" name="Everything" layout="minimalGrid" GridSize="400" LayoutGroup="Default" centrex="493.305511" centrey="641.058044" centreDefined="0" centreMinx="152" centreMiny="628" centreMaxx="834" centreMaxy="653" models="Single Line,Single Line-2,Single Line-3,Single Line-4,Single Line-5,Single Line-6,Single Line-7"/>
+    <modelGroup selected="0" name="Everything" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="Single Line,Single Line-2,Single Line-3,Single Line-4,Single Line-5,Single Line-6,Single Line-7,Single Line-8" centrex="488.920227" centrey="573.554321" centreDefined="0" centreMinx="150" centreMiny="515" centreMaxx="827" centreMaxy="631"/>
   </modelGroups>
   <layoutGroups/>
   <perspectives current="Default Perspective">
