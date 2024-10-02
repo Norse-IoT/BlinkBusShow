@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xrgb>
   <models>
-    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" name="Single Line" LayoutGroup="Default" Controller="Serial_" StringType="RGB Nodes" parm2="50" parm3="3" WorldPosX="120.4057" WorldPosY="649.7947" WorldPosZ="0.0000" X2="674.806580" Y2="3.374023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:1">
-      <ControllerConnection Port="14" Protocol="LOR Optimised"/>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm2="50" parm3="3" ShadowModelFor="" name="Single Line-7" Controller="Serial_" WorldPosX="150.0249" WorldPosY="505.4374" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:901">
+      <ControllerConnection Protocol="LOR Optimised" Port="7"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm2="50" parm3="3" ShadowModelFor="" name="Single Line-6" Controller="Serial_" WorldPosX="154.1199" WorldPosY="530.5576" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:751">
+      <ControllerConnection Protocol="LOR Optimised" Port="6"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm2="50" parm3="3" ShadowModelFor="" name="Single Line-5" Controller="Serial_" WorldPosX="150.8349" WorldPosY="565.1046" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:601">
+      <ControllerConnection Protocol="LOR Optimised" Port="5"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm2="50" parm3="3" ShadowModelFor="" name="Single Line-4" Controller="Serial_" WorldPosX="152.2149" WorldPosY="579.7495" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:451">
+      <ControllerConnection Protocol="LOR Optimised" Port="4"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm2="50" parm3="3" ShadowModelFor="" name="Single Line-3" Controller="Serial_" WorldPosX="150.2150" WorldPosY="592.2991" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:301">
+      <ControllerConnection Protocol="LOR Optimised" Port="3"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm2="50" parm3="3" name="Single Line-2" Controller="Serial_" ShadowModelFor="" WorldPosX="150.5450" WorldPosY="606.9446" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:151">
+      <ControllerConnection Protocol="LOR Optimised" Port="2"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" name="Single Line" LayoutGroup="Default" Controller="Serial_" StringType="RGB Nodes" parm2="50" parm3="3" WorldPosX="152.1805" WorldPosY="628.9221" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:1">
+      <ControllerConnection Protocol="LOR Optimised" Port="1"/>
     </model>
   </models>
   <view_objects>
@@ -11,7 +29,9 @@
   <effects version="0007"/>
   <views/>
   <palettes/>
-  <modelGroups/>
+  <modelGroups>
+    <modelGroup selected="0" name="Everything" layout="minimalGrid" GridSize="400" LayoutGroup="Default" centrex="493.305511" centrey="641.058044" centreDefined="0" centreMinx="152" centreMiny="628" centreMaxx="834" centreMaxy="653" models="Single Line,Single Line-2,Single Line-3,Single Line-4,Single Line-5,Single Line-6,Single Line-7"/>
+  </modelGroups>
   <layoutGroups/>
   <perspectives current="Default Perspective">
     <perspective name="Default Perspective" settings="layout2|name=ModelPreview;caption=Model Preview;state=6293440;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=HousePreview;caption=House Preview;state=6293440;dir=4;layer=1;row=0;pos=1;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectAssist;caption=Effect Assist;state=2099198;dir=4;layer=1;row=0;pos=2;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DisplayElements;caption=Display Elements;state=6293503;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=750;besth=1050;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=750;floath=1050|name=Perspectives;caption=Perspectives;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Effect;caption=Effect Settings;state=2099196;dir=4;layer=0;row=1;pos=0;prop=100000;bestw=447;besth=829;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SelectEffect;caption=Select Effects;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=471;besth=378;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SearchPanel;caption=Search Panel;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=574;besth=376;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectDropper;caption=Effects;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=1260;besth=756;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ValueCurveDropper;caption=Value Curves;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=40;besth=40;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ColourDropper;caption=Colours;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=36;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Jukebox;caption=Jukebox;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=100;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=FindData;caption=Find Data;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Color;caption=Color;state=2099196;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=368;besth=351;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerTiming;caption=Layer Blending;state=2099196;dir=1;layer=0;row=0;pos=1;prop=100000;bestw=280;besth=282;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerSettings;caption=Layer Settings;state=2099196;dir=1;layer=0;row=0;pos=2;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SequenceVideo;caption=Sequence Video;state=2099199;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=280;besth=169;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=52;floaty=52;floatw=296;floath=208|name=Main Sequencer;caption=Main Sequencer;state=768;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=118;besth=50;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,1,0)=252|dock_size(4,0,1)=340|dock_size(1,0,0)=86|dock_size(5,0,0)=120|" version="2.0"/>
