@@ -10,25 +10,27 @@
     <album></album>
     <MusicURL></MusicURL>
     <comment></comment>
-    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceTiming>25 ms</sequenceTiming>
     <sequenceType>Animation</sequenceType>
     <mediaFile></mediaFile>
     <sequenceDuration>30.000</sequenceDuration>
     <imageDir></imageDir>
   </head>
   <nextid>1</nextid>
-  <ColorPalettes>
-    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette5=1</ColorPalette>
-  </ColorPalettes>
-  <EffectDB>
-    <Effect></Effect>
-    <Effect>E_CHECKBOX_Bars_3D=1,E_CHECKBOX_Bars_Gradient=1,E_CHECKBOX_Bars_Highlight=0,E_CHECKBOX_Bars_UseFirstColorForHighlight=0,E_CHOICE_Bars_Direction=H-compress,E_SLIDER_Bars_BarCount=4,E_TEXTCTRL_Bars_Center=0,E_TEXTCTRL_Bars_Cycles=1.0</Effect>
-  </EffectDB>
+  <ColorPalettes/>
+  <EffectDB/>
   <DataLayers>
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
   </DataLayers>
   <DisplayElements>
     <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="Everything" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line-7" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Single Line-3" visible="1"/>
     <Element collapsed="0" type="model" name="Single Line-2" visible="1"/>
     <Element collapsed="0" type="model" name="Single Line" visible="1"/>
   </DisplayElements>
@@ -36,15 +38,32 @@
     <Element type="timing" name="New Timing">
       <EffectLayer/>
     </Element>
+    <Element type="model" name="Everything">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Line-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Line-7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Line-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Line-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Line-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Single Line-3">
+      <EffectLayer/>
+    </Element>
     <Element type="model" name="Single Line-2">
-      <EffectLayer>
-        <Effect ref="0" name="Off" startTime="800" endTime="39600" palette="0"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="Single Line">
-      <EffectLayer>
-        <Effect ref="1" name="Bars" selected="1" startTime="8450" endTime="26550" palette="0"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
   </ElementEffects>
   <lastView>0</lastView>

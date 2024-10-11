@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xrgb>
   <models>
-    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm2="50" parm3="3" ShadowModelFor="" name="Single Line-8" Controller="Serial_" WorldPosX="153.5474" WorldPosY="515.9323" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:1051">
-      <ControllerConnection Protocol="LOR Optimised" Port="8"/>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" ShadowModelFor="" name="Single Line-8" parm2="36" Controller="Ethernet_" WorldPosX="153.5474" WorldPosY="515.9323" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Ethernet_:1471">
+      <ControllerConnection Port="8"/>
     </model>
-    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm2="50" parm3="3" ShadowModelFor="" name="Single Line-7" Controller="Serial_" WorldPosX="154.2149" WorldPosY="530.5773" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:901">
-      <ControllerConnection Protocol="LOR Optimised" Port="7"/>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" ShadowModelFor="" name="Single Line-7" parm2="70" Controller="Ethernet_" WorldPosX="154.2149" WorldPosY="530.5773" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Ethernet_:1261">
+      <ControllerConnection Port="7" Protocol="ws2811"/>
     </model>
-    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm2="50" parm3="3" ShadowModelFor="" name="Single Line-6" Controller="Serial_" WorldPosX="152.0249" WorldPosY="546.2698" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:751">
-      <ControllerConnection Protocol="LOR Optimised" Port="6"/>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" ShadowModelFor="" name="Single Line-6" parm2="70" Controller="Ethernet_" WorldPosX="150.5218" WorldPosY="546.2698" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Ethernet_:1051">
+      <ControllerConnection Port="6" Protocol="ws2811"/>
     </model>
-    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm2="50" parm3="3" ShadowModelFor="" name="Single Line-5" Controller="Serial_" WorldPosX="150.8349" WorldPosY="565.1046" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:601">
-      <ControllerConnection Protocol="LOR Optimised" Port="5"/>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" ShadowModelFor="" name="Single Line-5" parm2="70" Controller="Ethernet_" WorldPosX="150.8349" WorldPosY="566.6077" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Ethernet_:841">
+      <ControllerConnection Port="5" Protocol="ws2811"/>
     </model>
-    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm2="50" parm3="3" ShadowModelFor="" name="Single Line-4" Controller="Serial_" WorldPosX="152.2149" WorldPosY="579.7495" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:451">
-      <ControllerConnection Protocol="LOR Optimised" Port="4"/>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" ShadowModelFor="" name="Single Line-4" parm2="70" Controller="Ethernet_" WorldPosX="152.2149" WorldPosY="579.7495" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Ethernet_:631">
+      <ControllerConnection Port="4" Protocol="ws2811"/>
     </model>
-    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm2="50" parm3="3" ShadowModelFor="" name="Single Line-3" Controller="Serial_" WorldPosX="150.2150" WorldPosY="592.2991" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:301">
-      <ControllerConnection Protocol="LOR Optimised" Port="3"/>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" ShadowModelFor="" name="Single Line-3" parm2="70" Controller="Ethernet_" WorldPosX="150.2150" WorldPosY="592.2991" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Ethernet_:421">
+      <ControllerConnection Port="3" Protocol="ws2811"/>
     </model>
-    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm2="50" parm3="3" name="Single Line-2" Controller="Serial_" ShadowModelFor="" WorldPosX="150.5450" WorldPosY="606.9446" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:151">
-      <ControllerConnection Protocol="LOR Optimised" Port="2"/>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" name="Single Line-2" ShadowModelFor="" parm2="70" Controller="Ethernet_" WorldPosX="150.5450" WorldPosY="606.9446" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Ethernet_:211">
+      <ControllerConnection Port="2" Protocol="ws2811"/>
     </model>
-    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" name="Single Line" LayoutGroup="Default" Controller="Serial_" StringType="RGB Nodes" parm2="50" parm3="3" WorldPosX="152.1805" WorldPosY="628.9221" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:1">
-      <ControllerConnection Protocol="LOR Optimised" Port="1"/>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" name="Single Line" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" parm2="70" Controller="Ethernet_" WorldPosX="152.1805" WorldPosY="628.9221" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Ethernet_:1">
+      <ControllerConnection Port="1" Protocol="ws2811"/>
     </model>
   </models>
   <view_objects>
