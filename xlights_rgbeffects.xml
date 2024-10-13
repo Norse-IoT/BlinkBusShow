@@ -107,7 +107,9 @@
   <views/>
   <palettes/>
   <modelGroups>
-    <modelGroup selected="0" name="Everything" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="Streetside-1,Streetside-2,Streetside-3,Streetside-4,Streetside-5,Streetside-6,Streetside-7,Streetside-8,Curbside-1,Curbside-2,Curbside-3,Curbside-4,Curbside-5,Curbside-6,Curbside-7,Curbside-8" centrex="80.000229" centrey="-90.000023" centreDefined="0" centreMinx="-460" centreMiny="-160" centreMaxx="620" centreMaxy="-20"/>
+    <modelGroup selected="0" name="Everything" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="Streetside-1,Streetside-2,Streetside-3,Streetside-4,Streetside-5,Streetside-6,Streetside-7,Streetside-8,Curbside-1,Curbside-2,Curbside-3,Curbside-4,Curbside-5,Curbside-6,Curbside-7,Curbside-8" centrex="80.000412" centrey="-90.000023" centreDefined="0" centreMinx="-460" centreMiny="-160" centreMaxx="620" centreMaxy="-20"/>
+    <modelGroup selected="0" name="Streetside" models="" layout="minimalGrid" GridSize="400" LayoutGroup="Default"/>
+    <modelGroup selected="0" name="Curbside" models="" layout="minimalGrid" GridSize="400" LayoutGroup="Default"/>
   </modelGroups>
   <layoutGroups/>
   <perspectives current="Default Perspective">

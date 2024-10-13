@@ -19,7 +19,13 @@
   <nextid>1</nextid>
   <Jukebox/>
   <ColorPalettes>
-    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette4=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette7=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette8=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
   </ColorPalettes>
   <EffectDB>
     <Effect></Effect>
@@ -28,111 +34,97 @@
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
   </DataLayers>
   <DisplayElements>
-    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
     <Element collapsed="0" type="model" name="Everything" visible="1"/>
-    <Element collapsed="0" type="model" name="Streetside-8" visible="1"/>
-    <Element collapsed="0" type="model" name="Streetside-7" visible="1"/>
-    <Element collapsed="0" type="model" name="Streetside-6" visible="1"/>
-    <Element collapsed="0" type="model" name="Streetside-5" visible="1"/>
-    <Element collapsed="0" type="model" name="Streetside-4" visible="1"/>
-    <Element collapsed="0" type="model" name="Streetside-3" visible="1"/>
-    <Element collapsed="0" type="model" name="Streetside-2" visible="1"/>
-    <Element collapsed="0" type="model" name="Streetside-1" visible="1"/>
-    <Element collapsed="0" type="model" name="Curbside-1" visible="1"/>
-    <Element collapsed="0" type="model" name="Curbside-2" visible="1"/>
-    <Element collapsed="0" type="model" name="Curbside-3" visible="1"/>
-    <Element collapsed="0" type="model" name="Curbside-4" visible="1"/>
-    <Element collapsed="0" type="model" name="Curbside-5" visible="1"/>
-    <Element collapsed="0" type="model" name="Curbside-6" visible="1"/>
-    <Element collapsed="0" type="model" name="Curbside-7" visible="1"/>
-    <Element collapsed="0" type="model" name="Curbside-8" visible="1"/>
+    <Element collapsed="0" type="model" name="Streetside-1" visible="0"/>
+    <Element collapsed="0" type="model" name="Streetside-2" visible="0"/>
+    <Element collapsed="0" type="model" name="Streetside-3" visible="0"/>
+    <Element collapsed="0" type="model" name="Streetside-4" visible="0"/>
+    <Element collapsed="0" type="model" name="Streetside-5" visible="0"/>
+    <Element collapsed="0" type="model" name="Streetside-6" visible="0"/>
+    <Element collapsed="0" type="model" name="Streetside-7" visible="0"/>
+    <Element collapsed="0" type="model" name="Streetside-8" visible="0"/>
+    <Element collapsed="0" type="model" name="Curbside-1" visible="0"/>
+    <Element collapsed="0" type="model" name="Curbside-2" visible="0"/>
+    <Element collapsed="0" type="model" name="Curbside-3" visible="0"/>
+    <Element collapsed="0" type="model" name="Curbside-4" visible="0"/>
+    <Element collapsed="0" type="model" name="Curbside-5" visible="0"/>
+    <Element collapsed="0" type="model" name="Curbside-6" visible="0"/>
+    <Element collapsed="0" type="model" name="Curbside-7" visible="0"/>
+    <Element collapsed="0" type="model" name="Curbside-8" visible="0"/>
+    <Element collapsed="0" type="model" name="Curbside" visible="1"/>
+    <Element collapsed="0" type="model" name="Streetside" visible="1"/>
   </DisplayElements>
   <ElementEffects>
-    <Element type="timing" name="New Timing">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Everything">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Streetside-8">
+    <Element type="model" name="Streetside-1">
       <EffectLayer>
-        <Effect ref="0" name="On" startTime="0" endTime="1100" palette="0"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Streetside-7">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="1200" endTime="2200" palette="0"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Streetside-6">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="2300" endTime="3300" palette="0"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Streetside-5">
-      <EffectLayer>
-        <Effect ref="0" name="On" selected="1" startTime="3300" endTime="4300" palette="0"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Streetside-4">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="4300" endTime="5300" palette="0"/>
-      </EffectLayer>
-    </Element>
-    <Element type="model" name="Streetside-3">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="5400" endTime="6400" palette="0"/>
+        <Effect ref="0" name="On" startTime="0" endTime="24600" palette="0"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Streetside-2">
       <EffectLayer>
-        <Effect ref="0" name="On" startTime="6400" endTime="7400" palette="0"/>
+        <Effect ref="0" name="On" startTime="0" endTime="24600" palette="1"/>
       </EffectLayer>
     </Element>
-    <Element type="model" name="Streetside-1">
+    <Element type="model" name="Streetside-3">
       <EffectLayer>
-        <Effect ref="0" name="On" startTime="7400" endTime="8400" palette="0"/>
+        <Effect ref="0" name="On" startTime="100" endTime="24700" palette="2"/>
       </EffectLayer>
+    </Element>
+    <Element type="model" name="Streetside-4">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="100" endTime="24700" palette="3"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Streetside-5">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="100" endTime="24700" palette="4"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Streetside-6">
+      <EffectLayer>
+        <Effect ref="0" name="On" startTime="100" endTime="24700" palette="5"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Streetside-7">
+      <EffectLayer>
+        <Effect ref="0" name="On" selected="1" startTime="0" endTime="24600" palette="6"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Streetside-8">
+      <EffectLayer/>
     </Element>
     <Element type="model" name="Curbside-1">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="8500" endTime="9500" palette="0"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="Curbside-2">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="9500" endTime="10500" palette="0"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="Curbside-3">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="10500" endTime="11500" palette="0"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="Curbside-4">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="11500" endTime="12500" palette="0"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="Curbside-5">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="12500" endTime="13500" palette="0"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="Curbside-6">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="13500" endTime="14500" palette="0"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="Curbside-7">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="14400" endTime="15400" palette="0"/>
-      </EffectLayer>
+      <EffectLayer/>
     </Element>
     <Element type="model" name="Curbside-8">
-      <EffectLayer>
-        <Effect ref="0" name="On" startTime="15300" endTime="16300" palette="0"/>
-      </EffectLayer>
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Curbside">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Streetside">
+      <EffectLayer/>
     </Element>
   </ElementEffects>
   <lastView>0</lastView>
