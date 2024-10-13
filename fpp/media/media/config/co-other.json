@@ -1,0 +1,120 @@
+{
+	"channelOutputs": [
+		{
+			"enabled": 0,
+			"type": "LOR",
+			"startChannel": 1,
+			"channelCount": 512,
+			"device": "ttyUSB1",
+			"description": "",
+			"speed": 115200,
+			"firstControllerId": 1
+		},
+		{
+			"enabled": 1,
+			"type": "LOREnhanced",
+			"startChannel": 1,
+			"channelCount": 8388608,
+			"device": "ttyUSB0",
+			"speed": 1000000,
+			"units": [
+				{
+					"unitId": 1,
+					"numOfPixels": 71,
+					"lorStartPixel": 1,
+					"fppStartAddr": 1
+				},
+				{
+					"unitId": 2,
+					"numOfPixels": 71,
+					"lorStartPixel": 1,
+					"fppStartAddr": 214
+				},
+				{
+					"unitId": 4,
+					"numOfPixels": 71,
+					"lorStartPixel": 1,
+					"fppStartAddr": 640
+				},
+				{
+					"unitId": 5,
+					"numOfPixels": 71,
+					"lorStartPixel": 1,
+					"fppStartAddr": 853
+				},
+				{
+					"unitId": 6,
+					"numOfPixels": 71,
+					"lorStartPixel": 1,
+					"fppStartAddr": 1066
+				},
+				{
+					"unitId": 7,
+					"numOfPixels": 71,
+					"lorStartPixel": 1,
+					"fppStartAddr": 1279
+				},
+				{
+					"unitId": 8,
+					"numOfPixels": 36,
+					"lorStartPixel": 1,
+					"fppStartAddr": 1492
+				},
+				{
+					"unitId": 9,
+					"numOfPixels": 46,
+					"lorStartPixel": 1,
+					"fppStartAddr": 1600
+				},
+				{
+					"unitId": 10,
+					"numOfPixels": 95,
+					"lorStartPixel": 1,
+					"fppStartAddr": 1738
+				},
+				{
+					"unitId": 11,
+					"numOfPixels": 95,
+					"lorStartPixel": 1,
+					"fppStartAddr": 2023
+				},
+				{
+					"unitId": 12,
+					"numOfPixels": 97,
+					"lorStartPixel": 1,
+					"fppStartAddr": 2314
+				},
+				{
+					"unitId": 13,
+					"numOfPixels": 97,
+					"lorStartPixel": 1,
+					"fppStartAddr": 2599
+				},
+				{
+					"unitId": 14,
+					"numOfPixels": 97,
+					"lorStartPixel": 1,
+					"fppStartAddr": 2890
+				},
+				{
+					"unitId": 15,
+					"numOfPixels": 46,
+					"lorStartPixel": 1,
+					"fppStartAddr": 3181
+				},
+				{
+					"unitId": 16,
+					"numOfPixels": 97,
+					"lorStartPixel": 1,
+					"fppStartAddr": 3319
+				},
+				{
+					"unitId": 3,
+					"numOfPixels": 71,
+					"lorStartPixel": 1,
+					"fppStartAddr": 427
+				}
+			]
+		}
+	]
+}
