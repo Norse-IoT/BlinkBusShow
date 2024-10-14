@@ -1,29 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xrgb>
   <models>
-    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" ShadowModelFor="" name="Single Line-8" Controller="Serial_" parm2="36" WorldPosX="153.5474" WorldPosY="515.9323" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:1471">
-      <ControllerConnection Port="8" Protocol="LOR Optimised"/>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" ShadowModelFor="" Controller="fpp" parm2="36" name="Streetside-8" WorldPosX="0.0000" WorldPosY="-160.0000" WorldPosZ="0.0000" X2="-460.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!fpp:1492">
+      <ControllerConnection Port="8" Protocol="ws2811"/>
+      <Aliases>
+        <alias name="oldname:single line-8"/>
+      </Aliases>
     </model>
-    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" ShadowModelFor="" name="Single Line-7" Controller="Serial_" parm2="70" WorldPosX="154.2149" WorldPosY="530.5773" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:1261">
-      <ControllerConnection Port="7" Protocol="lor optimised"/>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" ShadowModelFor="" Controller="fpp" parm2="71" name="Streetside-7" WorldPosX="0.0000" WorldPosY="-140.0000" WorldPosZ="0.0000" X2="-460.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!fpp:1">
+      <ControllerConnection Protocol="ws2811" Port="1"/>
+      <Aliases>
+        <alias name="oldname:single line-7"/>
+      </Aliases>
     </model>
-    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" ShadowModelFor="" name="Single Line-6" Controller="Serial_" parm2="70" WorldPosX="150.5218" WorldPosY="546.2698" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:1051">
-      <ControllerConnection Port="6" Protocol="lor optimised"/>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" ShadowModelFor="" Controller="fpp" parm2="71" name="Streetside-6" WorldPosX="0.0000" WorldPosY="-120.0000" WorldPosZ="0.0000" X2="-460.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!fpp:214">
+      <ControllerConnection Protocol="ws2811" Port="2"/>
+      <Aliases>
+        <alias name="oldname:single line-6"/>
+      </Aliases>
     </model>
-    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" ShadowModelFor="" name="Single Line-5" Controller="Serial_" parm2="70" WorldPosX="150.8349" WorldPosY="566.6077" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:841">
-      <ControllerConnection Port="5" Protocol="lor optimised"/>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" ShadowModelFor="" Controller="fpp" parm2="71" name="Streetside-5" WorldPosX="0.0000" WorldPosY="-100.0000" WorldPosZ="0.0000" X2="-460.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!fpp:427">
+      <ControllerConnection Protocol="ws2811" Port="3"/>
+      <Aliases>
+        <alias name="oldname:single line-5"/>
+      </Aliases>
     </model>
-    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" ShadowModelFor="" name="Single Line-4" Controller="Serial_" parm2="70" WorldPosX="152.2149" WorldPosY="579.7495" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:631">
-      <ControllerConnection Port="4" Protocol="lor optimised"/>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" ShadowModelFor="" Controller="fpp" parm2="71" name="Streetside-4" WorldPosX="0.0000" WorldPosY="-80.0000" WorldPosZ="0.0000" X2="-460.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!fpp:640">
+      <ControllerConnection Port="4" Protocol="ws2811"/>
+      <Aliases>
+        <alias name="oldname:single line-4"/>
+      </Aliases>
     </model>
-    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" ShadowModelFor="" name="Single Line-3" Controller="Serial_" parm2="70" WorldPosX="150.2150" WorldPosY="592.2991" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:421">
-      <ControllerConnection Port="3" Protocol="lor optimised"/>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" ShadowModelFor="" Controller="fpp" parm2="71" name="Streetside-3" WorldPosX="0.0000" WorldPosY="-60.0000" WorldPosZ="0.0000" X2="-460.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!fpp:853">
+      <ControllerConnection Protocol="ws2811" Port="5"/>
+      <Aliases>
+        <alias name="oldname:single line-3"/>
+      </Aliases>
     </model>
-    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" name="Single Line-2" Controller="Serial_" ShadowModelFor="" parm2="70" WorldPosX="150.5450" WorldPosY="606.9446" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:211">
-      <ControllerConnection Port="2" Protocol="lor optimised"/>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" ShadowModelFor="" Controller="fpp" parm2="71" name="Streetside-2" WorldPosX="0.0000" WorldPosY="-40.0000" WorldPosZ="0.0000" X2="-460.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!fpp:1066">
+      <ControllerConnection Protocol="ws2811" Port="6"/>
+      <Aliases>
+        <alias name="oldname:single line-2"/>
+      </Aliases>
     </model>
-    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" name="Single Line" LayoutGroup="Default" Controller="Serial_" StringType="RGB Nodes" parm3="3" parm2="70" WorldPosX="152.1805" WorldPosY="628.9221" WorldPosZ="0.0000" X2="673.409424" Y2="2.249023" Z2="0.000000" versionNumber="7" StartChannel="!Serial_:1">
-      <ControllerConnection Port="1" Protocol="lor optimised"/>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" Controller="fpp" parm2="71" name="Streetside-1" WorldPosX="0.0000" WorldPosY="-20.0000" WorldPosZ="0.0000" X2="-460.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!fpp:1279">
+      <ControllerConnection Protocol="ws2811" Port="7"/>
+      <Aliases>
+        <alias name="oldname:single line"/>
+      </Aliases>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" name="Curbside-1" parm2="46" Controller="fpp" WorldPosX="20.0000" WorldPosY="-20.0000" WorldPosZ="0.0000" X2="600.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!fpp:1600">
+      <Aliases>
+        <alias name="oldname:single line"/>
+      </Aliases>
+      <ControllerConnection Port="9" Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" ShadowModelFor="" name="Curbside-2" parm2="95" Controller="fpp" WorldPosX="20.0000" WorldPosY="-40.0000" WorldPosZ="0.0000" X2="600.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!fpp:1738">
+      <Aliases>
+        <alias name="oldname:single line-2"/>
+      </Aliases>
+      <ControllerConnection Protocol="ws2811" Port="10"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" ShadowModelFor="" name="Curbside-3" parm2="97" Controller="fpp" WorldPosX="20.0000" WorldPosY="-60.0000" WorldPosZ="0.0000" X2="600.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!fpp:2023">
+      <Aliases>
+        <alias name="oldname:single line-3"/>
+      </Aliases>
+      <ControllerConnection Protocol="ws2811" Port="11"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" ShadowModelFor="" name="Curbside-4" parm2="95" Controller="fpp" WorldPosX="20.0000" WorldPosY="-80.0000" WorldPosZ="0.0000" X2="600.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!fpp:2314">
+      <Aliases>
+        <alias name="oldname:single line-4"/>
+      </Aliases>
+      <ControllerConnection Protocol="ws2811" Port="12"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" ShadowModelFor="" name="Curbside-5" parm2="97" Controller="fpp" WorldPosX="20.0000" WorldPosY="-100.0000" WorldPosZ="0.0000" X2="600.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!fpp:2890">
+      <Aliases>
+        <alias name="oldname:single line-5"/>
+      </Aliases>
+      <ControllerConnection Protocol="ws2811" Port="14"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" ShadowModelFor="" name="Curbside-6" parm2="97" Controller="fpp" WorldPosX="20.0000" WorldPosY="-120.0000" WorldPosZ="0.0000" X2="600.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!fpp:2599">
+      <Aliases>
+        <alias name="oldname:single line-6"/>
+      </Aliases>
+      <ControllerConnection Protocol="ws2811" Port="13"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" ShadowModelFor="" name="Curbside-7" parm2="97" Controller="fpp" WorldPosX="20.0000" WorldPosY="-140.0000" WorldPosZ="0.0000" X2="600.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!fpp:3319">
+      <Aliases>
+        <alias name="oldname:single line-7"/>
+        <alias name="oldname:streetside-15"/>
+      </Aliases>
+      <ControllerConnection Protocol="ws2811" Port="16"/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" StringType="RGB Nodes" parm3="3" ShadowModelFor="" parm2="46" name="Curbside-8" Controller="fpp" WorldPosX="20.0000" WorldPosY="-160.0000" WorldPosZ="0.0000" X2="600.000000" Y2="0.000000" Z2="0.000000" versionNumber="7" StartChannel="!fpp:3181">
+      <Aliases>
+        <alias name="oldname:single line-8"/>
+        <alias name="oldname:streetside-16"/>
+      </Aliases>
+      <ControllerConnection Protocol="ws2811" Port="15"/>
     </model>
   </models>
   <view_objects>
@@ -33,7 +107,9 @@
   <views/>
   <palettes/>
   <modelGroups>
-    <modelGroup selected="0" name="Everything" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="Single Line,Single Line-2,Single Line-3,Single Line-4,Single Line-5,Single Line-6,Single Line-7,Single Line-8" centrex="488.920227" centrey="573.554321" centreDefined="0" centreMinx="150" centreMiny="515" centreMaxx="827" centreMaxy="631"/>
+    <modelGroup selected="0" name="Everything" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="Streetside-1,Streetside-2,Streetside-3,Streetside-4,Streetside-5,Streetside-6,Streetside-7,Streetside-8,Curbside-1,Curbside-2,Curbside-3,Curbside-4,Curbside-5,Curbside-6,Curbside-7,Curbside-8" centrex="80.000412" centrey="-90.000023" centreDefined="0" centreMinx="-460" centreMiny="-160" centreMaxx="620" centreMaxy="-20"/>
+    <modelGroup selected="0" name="Streetside" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="Streetside-7,Streetside-6,Streetside-5,Streetside-4,Streetside-3,Streetside-2,Streetside-1,Streetside-8" centrex="-230.000687" centrey="-90.000023" centreDefined="0" centreMinx="-460" centreMiny="-160" centreMaxx="0" centreMaxy="-20"/>
+    <modelGroup selected="0" name="Curbside" layout="minimalGrid" GridSize="400" LayoutGroup="Default" models="Curbside-1,Curbside-2,Curbside-3,Curbside-4,Curbside-6,Curbside-5,Curbside-8,Curbside-7" centrex="320.001099" centrey="-90.000000" centreDefined="0" centreMinx="20" centreMiny="-160" centreMaxx="620" centreMaxy="-20"/>
   </modelGroups>
   <layoutGroups/>
   <perspectives current="Default Perspective">
