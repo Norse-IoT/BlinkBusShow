@@ -1,0 +1,3 @@
+Allow from All
+Satisfy Any
+SetEnvIf Host ^ LOCAL_PROTECT=0
