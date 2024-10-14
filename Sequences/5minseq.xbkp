@@ -90,31 +90,31 @@
     </Element>
     <Element type="model" name="Curbside">
       <EffectLayer>
-        <Effect ref="0" name="Morph" selected="1" startTime="191050" endTime="198550" palette="0"/>
+        <Effect ref="0" name="Morph" startTime="191050" endTime="198550" palette="0"/>
       </EffectLayer>
       <EffectLayer>
-        <Effect ref="1" name="Wave" selected="1" id="1" startTime="74950" endTime="121050" palette="1"/>
-        <Effect ref="2" name="Circles" selected="1" id="2" startTime="158950" endTime="192850" palette="0"/>
-        <Effect ref="3" name="Spirograph" selected="1" id="3" startTime="217450" endTime="221350" palette="2"/>
-        <Effect ref="0" name="Morph" selected="1" id="4" startTime="247450" endTime="254950" palette="0"/>
+        <Effect ref="1" name="Wave" id="1" startTime="74950" endTime="121050" palette="1"/>
+        <Effect ref="2" name="Circles" id="2" startTime="158950" endTime="192850" palette="0"/>
+        <Effect ref="3" name="Spirograph" id="3" startTime="217450" endTime="221350" palette="2"/>
+        <Effect ref="0" name="Morph" id="4" startTime="247450" endTime="254950" palette="0"/>
       </EffectLayer>
       <EffectLayer>
         <Effect ref="4" name="Pinwheel" startTime="20050" endTime="70450" palette="3"/>
-        <Effect ref="0" name="Morph" selected="1" id="1" startTime="70450" endTime="74050" palette="2"/>
-        <Effect ref="5" name="Wave" selected="1" id="2" startTime="74350" endTime="122600" palette="4"/>
-        <Effect ref="0" name="Morph" selected="1" id="3" startTime="124150" endTime="129850" palette="2"/>
-        <Effect ref="0" name="Morph" selected="1" id="4" startTime="154450" endTime="161950" palette="0"/>
-        <Effect ref="6" name="Galaxy" selected="1" id="5" startTime="196450" endTime="215650" palette="5"/>
-        <Effect ref="3" name="Spirograph" selected="1" id="6" startTime="216150" endTime="220150" palette="0"/>
-        <Effect ref="7" name="Fan" selected="1" id="7" startTime="221450" endTime="251050" palette="0"/>
-        <Effect ref="8" name="SingleStrand" selected="1" id="8" startTime="252650" endTime="278950" palette="6"/>
-        <Effect ref="0" name="Morph" selected="1" id="9" startTime="278950" endTime="280650" palette="0"/>
+        <Effect ref="0" name="Morph" id="1" startTime="70450" endTime="74050" palette="2"/>
+        <Effect ref="5" name="Wave" id="2" startTime="74350" endTime="122600" palette="4"/>
+        <Effect ref="0" name="Morph" id="3" startTime="124150" endTime="129850" palette="2"/>
+        <Effect ref="0" name="Morph" id="4" startTime="154450" endTime="161950" palette="0"/>
+        <Effect ref="6" name="Galaxy" id="5" startTime="196450" endTime="215650" palette="5"/>
+        <Effect ref="3" name="Spirograph" id="6" startTime="216150" endTime="220150" palette="0"/>
+        <Effect ref="7" name="Fan" id="7" startTime="221450" endTime="251050" palette="0"/>
+        <Effect ref="8" name="SingleStrand" id="8" startTime="252650" endTime="278950" palette="6"/>
+        <Effect ref="0" name="Morph" id="9" startTime="278950" endTime="280650" palette="0"/>
       </EffectLayer>
       <EffectLayer>
         <Effect ref="9" name="Pinwheel" startTime="20050" endTime="70200" palette="2"/>
-        <Effect ref="10" name="Wave" selected="1" id="1" startTime="72550" endTime="124750" palette="2"/>
-        <Effect ref="11" name="Butterfly" selected="1" id="2" startTime="127850" endTime="156550" palette="7"/>
-        <Effect ref="3" name="Spirograph" selected="1" id="3" startTime="216850" endTime="221350" palette="8"/>
+        <Effect ref="10" name="Wave" id="1" startTime="72550" endTime="124750" palette="2"/>
+        <Effect ref="11" name="Butterfly" id="2" startTime="127850" endTime="156550" palette="7"/>
+        <Effect ref="3" name="Spirograph" id="3" startTime="216850" endTime="221350" palette="8"/>
       </EffectLayer>
       <EffectLayer/>
     </Element>
@@ -163,31 +163,31 @@
     </Element>
     <Element type="model" name="Streetside">
       <EffectLayer>
-        <Effect ref="0" name="Morph" startTime="210300" endTime="217800" palette="0"/>
+        <Effect ref="0" name="Morph" startTime="194000" endTime="201500" palette="0"/>
       </EffectLayer>
       <EffectLayer>
-        <Effect ref="1" name="Wave" id="1" startTime="94200" endTime="140300" palette="1"/>
-        <Effect ref="2" name="Circles" id="2" startTime="178200" endTime="212100" palette="0"/>
-        <Effect ref="3" name="Spirograph" id="3" startTime="236700" endTime="240600" palette="2"/>
-        <Effect ref="0" name="Morph" id="4" startTime="266700" endTime="274200" palette="0"/>
+        <Effect ref="1" name="Wave" id="1" startTime="75950" endTime="122050" palette="1"/>
+        <Effect ref="2" name="Circles" id="2" startTime="161900" endTime="195800" palette="0"/>
+        <Effect ref="3" name="Spirograph" id="3" startTime="220400" endTime="224300" palette="2"/>
+        <Effect ref="0" name="Morph" id="4" startTime="250400" endTime="257900" palette="0"/>
       </EffectLayer>
       <EffectLayer>
         <Effect ref="4" name="Pinwheel" startTime="21050" endTime="71450" palette="3"/>
-        <Effect ref="0" name="Morph" id="1" startTime="89700" endTime="93300" palette="2"/>
-        <Effect ref="5" name="Wave" id="2" startTime="93600" endTime="141850" palette="4"/>
-        <Effect ref="0" name="Morph" id="3" startTime="143400" endTime="149100" palette="2"/>
-        <Effect ref="0" name="Morph" id="4" startTime="173700" endTime="181200" palette="0"/>
-        <Effect ref="6" name="Galaxy" id="5" startTime="215700" endTime="234900" palette="5"/>
-        <Effect ref="3" name="Spirograph" id="6" startTime="235400" endTime="239400" palette="0"/>
-        <Effect ref="7" name="Fan" id="7" startTime="240700" endTime="270300" palette="0"/>
-        <Effect ref="8" name="SingleStrand" id="8" startTime="271900" endTime="298200" palette="6"/>
-        <Effect ref="0" name="Morph" id="9" startTime="298200" endTime="299900" palette="0"/>
+        <Effect ref="0" name="Morph" id="1" startTime="71450" endTime="75050" palette="2"/>
+        <Effect ref="5" name="Wave" id="2" startTime="75350" endTime="123600" palette="4"/>
+        <Effect ref="0" name="Morph" id="3" startTime="125150" endTime="130850" palette="2"/>
+        <Effect ref="0" name="Morph" id="4" startTime="157400" endTime="164900" palette="0"/>
+        <Effect ref="6" name="Galaxy" id="5" startTime="199400" endTime="218600" palette="5"/>
+        <Effect ref="3" name="Spirograph" id="6" startTime="219100" endTime="223100" palette="0"/>
+        <Effect ref="7" name="Fan" id="7" startTime="224400" endTime="254000" palette="0"/>
+        <Effect ref="8" name="SingleStrand" id="8" startTime="255600" endTime="281900" palette="6"/>
+        <Effect ref="0" name="Morph" id="9" startTime="281900" endTime="283600" palette="0"/>
       </EffectLayer>
       <EffectLayer>
-        <Effect ref="9" name="Pinwheel" startTime="20000" endTime="91800" palette="2"/>
-        <Effect ref="10" name="Wave" id="1" startTime="91800" endTime="144000" palette="2"/>
-        <Effect ref="11" name="Butterfly" id="2" startTime="147100" endTime="175800" palette="7"/>
-        <Effect ref="3" name="Spirograph" id="3" startTime="236100" endTime="240600" palette="8"/>
+        <Effect ref="9" name="Pinwheel" startTime="19600" endTime="70400" palette="2"/>
+        <Effect ref="10" name="Wave" id="1" startTime="73200" endTime="130800" palette="2"/>
+        <Effect ref="11" name="Butterfly" id="2" startTime="130800" endTime="159500" palette="7"/>
+        <Effect ref="3" name="Spirograph" id="3" startTime="219800" endTime="224300" palette="8"/>
       </EffectLayer>
       <EffectLayer/>
     </Element>
