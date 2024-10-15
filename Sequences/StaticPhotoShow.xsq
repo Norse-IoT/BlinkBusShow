@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2024.15</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>25.000</sequenceDuration>
+    <imageDir/>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\Users\student\Desktop\BlinkBusShow\Assets\BlinkCincy.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=50,E_SLIDER_Pictures_StartScale=50,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=2.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale To Fit,E_FILEPICKER_Pictures_Filename=C:\Users\student\Desktop\BlinkBusShow\Assets\TankArrow.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=40,E_SLIDER_Pictures_StartScale=40,E_TEXTCTRL_Pictures_FrameRateAdj=5.0,E_TEXTCTRL_Pictures_Speed=2.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale To Fit,E_FILEPICKER_Pictures_Filename=C:\Users\student\Desktop\BlinkBusShow\Assets\NKU.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=40,E_SLIDER_Pictures_StartScale=40,E_TEXTCTRL_Pictures_FrameRateAdj=5.0,E_TEXTCTRL_Pictures_Speed=2.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale Keep Aspect Ratio Crop,E_FILEPICKER_Pictures_Filename=C:\Users\student\Desktop\BlinkBusShow\Assets\iot.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=-55,E_SLIDER_Pictures_EndScale=30,E_SLIDER_Pictures_StartScale=30,E_TEXTCTRL_Pictures_FrameRateAdj=5.0,E_TEXTCTRL_Pictures_Speed=2.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\Users\student\Desktop\BlinkBusShow\Assets\sota.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=200,E_SLIDER_Pictures_StartScale=200,E_TEXTCTRL_Pictures_FrameRateAdj=5.0,E_TEXTCTRL_Pictures_Speed=2.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\Users\student\Desktop\BlinkBusShow\Assets\BlinkCincy.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=40,E_SLIDER_Pictures_StartScale=40,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=2.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Duplicate_Override_Buffer=0,E_CHECKBOX_Duplicate_Override_Color=0,E_CHECKBOX_Duplicate_Override_Palette=0,E_CHECKBOX_Duplicate_Override_Timing=0,E_CHOICE_Duplicate_Model=Streetside,E_SPINCTRL_Duplicate_Layer=1</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="Everything" visible="1"/>
+    <Element collapsed="0" type="model" name="Streetside" visible="1"/>
+    <Element collapsed="0" type="model" name="Curbside" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Everything">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Streetside">
+      <EffectLayer>
+        <Effect ref="0" name="Pictures" startTime="0" endTime="5100" palette="0"/>
+        <Effect ref="1" name="Pictures" id="1" startTime="5100" endTime="10000" palette="0"/>
+        <Effect ref="2" name="Pictures" id="2" startTime="10000" endTime="15000" palette="0"/>
+        <Effect ref="3" name="Pictures" id="3" startTime="15000" endTime="20000" palette="0"/>
+        <Effect ref="4" name="Pictures" selected="1" id="4" startTime="20000" endTime="25000" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Curbside">
+      <EffectLayer>
+        <Effect ref="5" name="Pictures" startTime="0" endTime="5100" palette="0"/>
+        <Effect ref="6" name="Duplicate" id="1" startTime="5100" endTime="10000" palette="0"/>
+        <Effect ref="6" name="Duplicate" id="2" startTime="10000" endTime="15000" palette="0"/>
+        <Effect ref="6" name="Duplicate" id="3" startTime="15000" endTime="20000" palette="0"/>
+        <Effect ref="6" name="Duplicate" id="4" startTime="20000" endTime="25000" palette="0"/>
+      </EffectLayer>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>
