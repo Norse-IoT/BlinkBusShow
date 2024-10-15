@@ -23,12 +23,14 @@
   </ColorPalettes>
   <EffectDB>
     <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\Users\student\Desktop\BlinkBusShow\Assets\BlinkCincy.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=50,E_SLIDER_Pictures_StartScale=50,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=2.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
-    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale To Fit,E_FILEPICKER_Pictures_Filename=C:\Users\student\Desktop\BlinkBusShow\Assets\TankArrow.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=40,E_SLIDER_Pictures_StartScale=40,E_TEXTCTRL_Pictures_FrameRateAdj=5.0,E_TEXTCTRL_Pictures_Speed=2.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale To Fit,E_FILEPICKER_Pictures_Filename=C:\Users\student\Desktop\BlinkBusShow\Assets\TankArrowMirrored.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=40,E_SLIDER_Pictures_StartScale=40,E_TEXTCTRL_Pictures_FrameRateAdj=5.0,E_TEXTCTRL_Pictures_Speed=2.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
     <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale To Fit,E_FILEPICKER_Pictures_Filename=C:\Users\student\Desktop\BlinkBusShow\Assets\NKU.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=40,E_SLIDER_Pictures_StartScale=40,E_TEXTCTRL_Pictures_FrameRateAdj=5.0,E_TEXTCTRL_Pictures_Speed=2.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
     <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale Keep Aspect Ratio Crop,E_FILEPICKER_Pictures_Filename=C:\Users\student\Desktop\BlinkBusShow\Assets\iot.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=-55,E_SLIDER_Pictures_EndScale=30,E_SLIDER_Pictures_StartScale=30,E_TEXTCTRL_Pictures_FrameRateAdj=5.0,E_TEXTCTRL_Pictures_Speed=2.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
-    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\Users\student\Desktop\BlinkBusShow\Assets\sota.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=200,E_SLIDER_Pictures_StartScale=200,E_TEXTCTRL_Pictures_FrameRateAdj=5.0,E_TEXTCTRL_Pictures_Speed=2.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\Users\student\Desktop\BlinkBusShow\Assets\sota.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=-12,E_SLIDER_Pictures_EndScale=195,E_SLIDER_Pictures_StartScale=195,E_TEXTCTRL_Pictures_FrameRateAdj=5.0,E_TEXTCTRL_Pictures_Speed=2.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
     <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\Users\student\Desktop\BlinkBusShow\Assets\BlinkCincy.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=40,E_SLIDER_Pictures_StartScale=40,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=2.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale To Fit,E_FILEPICKER_Pictures_Filename=C:\Users\student\Desktop\BlinkBusShow\Assets\TankArrow.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=40,E_SLIDER_Pictures_StartScale=40,E_TEXTCTRL_Pictures_FrameRateAdj=5.0,E_TEXTCTRL_Pictures_Speed=2.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
     <Effect>E_CHECKBOX_Duplicate_Override_Buffer=0,E_CHECKBOX_Duplicate_Override_Color=0,E_CHECKBOX_Duplicate_Override_Palette=0,E_CHECKBOX_Duplicate_Override_Timing=0,E_CHOICE_Duplicate_Model=Streetside,E_SPINCTRL_Duplicate_Layer=1</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\Users\student\Desktop\BlinkBusShow\Assets\sota.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=-26,E_SLIDER_Pictures_EndScale=185,E_SLIDER_Pictures_StartScale=185,E_TEXTCTRL_Pictures_FrameRateAdj=5.0,E_TEXTCTRL_Pictures_Speed=2.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
   </EffectDB>
   <DataLayers>
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
@@ -52,16 +54,16 @@
         <Effect ref="1" name="Pictures" id="1" startTime="5100" endTime="10000" palette="0"/>
         <Effect ref="2" name="Pictures" id="2" startTime="10000" endTime="15000" palette="0"/>
         <Effect ref="3" name="Pictures" id="3" startTime="15000" endTime="20000" palette="0"/>
-        <Effect ref="4" name="Pictures" selected="1" id="4" startTime="20000" endTime="25000" palette="0"/>
+        <Effect ref="4" name="Pictures" id="4" startTime="20000" endTime="25000" palette="0"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Curbside">
       <EffectLayer>
         <Effect ref="5" name="Pictures" startTime="0" endTime="5100" palette="0"/>
-        <Effect ref="6" name="Duplicate" id="1" startTime="5100" endTime="10000" palette="0"/>
-        <Effect ref="6" name="Duplicate" id="2" startTime="10000" endTime="15000" palette="0"/>
-        <Effect ref="6" name="Duplicate" id="3" startTime="15000" endTime="20000" palette="0"/>
-        <Effect ref="6" name="Duplicate" id="4" startTime="20000" endTime="25000" palette="0"/>
+        <Effect ref="6" name="Pictures" selected="1" id="1" startTime="5100" endTime="10000" palette="0"/>
+        <Effect ref="7" name="Duplicate" id="2" startTime="10000" endTime="15000" palette="0"/>
+        <Effect ref="7" name="Duplicate" id="3" startTime="15000" endTime="20000" palette="0"/>
+        <Effect ref="8" name="Pictures" id="4" startTime="20000" endTime="25000" palette="0"/>
       </EffectLayer>
     </Element>
   </ElementEffects>
