@@ -20,16 +20,17 @@
   <Jukebox/>
   <ColorPalettes>
     <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1,C_CHECKBOX_Palette8=1</ColorPalette>
   </ColorPalettes>
   <EffectDB>
     <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\Users\student\Desktop\BlinkBusShow\Assets\BlinkCincy.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=50,E_SLIDER_Pictures_StartScale=50,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=2.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
-    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale To Fit,E_FILEPICKER_Pictures_Filename=C:\Users\student\Desktop\BlinkBusShow\Assets\TankArrow.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=40,E_SLIDER_Pictures_StartScale=40,E_TEXTCTRL_Pictures_FrameRateAdj=5.0,E_TEXTCTRL_Pictures_Speed=2.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
-    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale To Fit,E_FILEPICKER_Pictures_Filename=C:\Users\student\Desktop\BlinkBusShow\Assets\NKU.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=40,E_SLIDER_Pictures_StartScale=40,E_TEXTCTRL_Pictures_FrameRateAdj=5.0,E_TEXTCTRL_Pictures_Speed=2.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale To Fit,E_FILEPICKER_Pictures_Filename=C:\Users\student\Desktop\BlinkBusShow\Assets\TankArrowMirrored.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=40,E_SLIDER_Pictures_StartScale=40,E_TEXTCTRL_Pictures_FrameRateAdj=5.0,E_TEXTCTRL_Pictures_Speed=2.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale To Fit,E_FILEPICKER_Pictures_Filename=C:\Users\student\Desktop\BlinkBusShow\Assets\NKU.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=4,E_SLIDER_Pictures_EndScale=40,E_SLIDER_Pictures_StartScale=40,E_TEXTCTRL_Pictures_FrameRateAdj=5.0,E_TEXTCTRL_Pictures_Speed=2.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
     <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale Keep Aspect Ratio Crop,E_FILEPICKER_Pictures_Filename=C:\Users\student\Desktop\BlinkBusShow\Assets\iot.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=-55,E_SLIDER_Pictures_EndScale=30,E_SLIDER_Pictures_StartScale=30,E_TEXTCTRL_Pictures_FrameRateAdj=5.0,E_TEXTCTRL_Pictures_Speed=2.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
-    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\Users\student\Desktop\BlinkBusShow\Assets\sota.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=-12,E_SLIDER_Pictures_EndScale=195,E_SLIDER_Pictures_StartScale=195,E_TEXTCTRL_Pictures_FrameRateAdj=5.0,E_TEXTCTRL_Pictures_Speed=2.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Bars_3D=0,E_CHECKBOX_Bars_Gradient=0,E_CHECKBOX_Bars_Highlight=0,E_CHECKBOX_Bars_UseFirstColorForHighlight=0,E_CHOICE_Bars_Direction=up,E_SLIDER_Bars_BarCount=1,E_TEXTCTRL_Bars_Cycles=1.0</Effect>
     <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\Users\student\Desktop\BlinkBusShow\Assets\BlinkCincy.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=40,E_SLIDER_Pictures_StartScale=40,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=2.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=Scale To Fit,E_FILEPICKER_Pictures_Filename=C:\Users\student\Desktop\BlinkBusShow\Assets\TankArrow.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=40,E_SLIDER_Pictures_StartScale=40,E_TEXTCTRL_Pictures_FrameRateAdj=5.0,E_TEXTCTRL_Pictures_Speed=2.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
     <Effect>E_CHECKBOX_Duplicate_Override_Buffer=0,E_CHECKBOX_Duplicate_Override_Color=0,E_CHECKBOX_Duplicate_Override_Palette=0,E_CHECKBOX_Duplicate_Override_Timing=0,E_CHOICE_Duplicate_Model=Streetside,E_SPINCTRL_Duplicate_Layer=1</Effect>
-    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=C:\Users\student\Desktop\BlinkBusShow\Assets\sota.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=-26,E_SLIDER_Pictures_EndScale=185,E_SLIDER_Pictures_StartScale=185,E_TEXTCTRL_Pictures_FrameRateAdj=5.0,E_TEXTCTRL_Pictures_Speed=2.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
   </EffectDB>
   <DataLayers>
     <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
@@ -39,6 +40,22 @@
     <Element collapsed="0" type="model" name="Everything" visible="1"/>
     <Element collapsed="0" type="model" name="Streetside" visible="1"/>
     <Element collapsed="0" type="model" name="Curbside" visible="1"/>
+    <Element collapsed="0" type="model" name="Streetside-7" visible="0"/>
+    <Element collapsed="0" type="model" name="Streetside-6" visible="0"/>
+    <Element collapsed="0" type="model" name="Streetside-5" visible="0"/>
+    <Element collapsed="0" type="model" name="Streetside-4" visible="0"/>
+    <Element collapsed="0" type="model" name="Streetside-3" visible="0"/>
+    <Element collapsed="0" type="model" name="Streetside-2" visible="0"/>
+    <Element collapsed="0" type="model" name="Streetside-1" visible="0"/>
+    <Element collapsed="0" type="model" name="Streetside-8" visible="0"/>
+    <Element collapsed="0" type="model" name="Curbside-1" visible="0"/>
+    <Element collapsed="0" type="model" name="Curbside-2" visible="0"/>
+    <Element collapsed="0" type="model" name="Curbside-3" visible="0"/>
+    <Element collapsed="0" type="model" name="Curbside-4" visible="0"/>
+    <Element collapsed="0" type="model" name="Curbside-6" visible="0"/>
+    <Element collapsed="0" type="model" name="Curbside-5" visible="0"/>
+    <Element collapsed="0" type="model" name="Curbside-8" visible="0"/>
+    <Element collapsed="0" type="model" name="Curbside-7" visible="0"/>
   </DisplayElements>
   <ElementEffects>
     <Element type="timing" name="New Timing">
@@ -50,20 +67,68 @@
     <Element type="model" name="Streetside">
       <EffectLayer>
         <Effect ref="0" name="Pictures" startTime="0" endTime="5100" palette="0"/>
-        <Effect ref="1" name="Pictures" selected="1" id="1" startTime="5100" endTime="10000" palette="0"/>
+        <Effect ref="1" name="Pictures" id="1" startTime="5100" endTime="10000" palette="0"/>
         <Effect ref="2" name="Pictures" id="2" startTime="10000" endTime="15000" palette="0"/>
         <Effect ref="3" name="Pictures" id="3" startTime="15000" endTime="20000" palette="0"/>
-        <Effect ref="4" name="Pictures" id="4" startTime="20000" endTime="25000" palette="0"/>
+        <Effect ref="4" name="Bars" id="4" startTime="20000" endTime="25100" palette="1"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Curbside">
       <EffectLayer>
         <Effect ref="5" name="Pictures" startTime="0" endTime="5100" palette="0"/>
-        <Effect ref="1" name="Pictures" id="1" startTime="5100" endTime="10000" palette="0"/>
-        <Effect ref="6" name="Duplicate" id="2" startTime="10000" endTime="15000" palette="0"/>
-        <Effect ref="6" name="Duplicate" id="3" startTime="15000" endTime="20000" palette="0"/>
-        <Effect ref="7" name="Pictures" id="4" startTime="20000" endTime="25000" palette="0"/>
+        <Effect ref="6" name="Pictures" id="1" startTime="5100" endTime="10000" palette="0"/>
+        <Effect ref="7" name="Duplicate" id="2" startTime="10000" endTime="15000" palette="0"/>
+        <Effect ref="7" name="Duplicate" id="3" startTime="15000" endTime="20000" palette="0"/>
+        <Effect ref="7" name="Duplicate" selected="1" id="4" startTime="20100" endTime="23600" palette="1"/>
       </EffectLayer>
+    </Element>
+    <Element type="model" name="Streetside-7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Streetside-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Streetside-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Streetside-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Streetside-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Streetside-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Streetside-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Streetside-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Curbside-1">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Curbside-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Curbside-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Curbside-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Curbside-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Curbside-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Curbside-8">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Curbside-7">
+      <EffectLayer/>
     </Element>
   </ElementEffects>
   <lastView>0</lastView>
